@@ -1,0 +1,5 @@
+ssh/
+__pycache__
+*.pyc
+configDB.ini
+DropUserNegBalance.py
